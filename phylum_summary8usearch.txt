@@ -1,0 +1,15 @@
+Phylum	M03909	All
+"Proteobacteria"	20.7	31.9
+(Unassigned)	8.68	23.2
+"Actinobacteria"	11.8	16.5
+"Acidobacteria"	2.98	7.9
+Firmicutes	41.7	6.7
+Cyanobacteria/Chloroplast	9.46	4.3
+"Thermotogae"	1.17	2.0
+Candidatus_Saccharibacteria	0.648	1.6
+"Deinococcus-Thermus"	1.17	1.6
+"Bacteroidetes"	0.518	1.2
+"Planctomycetes"	0.389	1.2
+"Armatimonadetes"	0.259	0.8
+"Chloroflexi"	0.389	0.8
+Parcubacteria	0.13	0.4

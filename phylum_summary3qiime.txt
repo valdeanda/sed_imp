@@ -1,0 +1,11 @@
+Family	M03909	All
+(Unassigned)	61.4	62.2
+Thermotogaceae	11.4	13.3
+Peptostreptococcaceae	5.68	4.4
+Propionibacteriaceae	6.82	4.4
+Sphingomonadaceae	2.27	4.4
+Nocardiaceae	7.95	2.2
+Chloroplast	1.14	2.2
+Bacillaceae_1	1.14	2.2
+Moraxellaceae	1.14	2.2
+Clostridiaceae_1	1.14	2.2

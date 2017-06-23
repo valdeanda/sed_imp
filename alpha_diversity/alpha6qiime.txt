@@ -1,2 +1,0 @@
-Sample	berger_parker	buzas_gibson	chao1	dominance	equitability	jost	jost1	reads	richness	robbins	simpson	shannon_e	shannon_2	shannon_10
-M03909	0.0831	0.216	362.8	0.981	0.864	84.4	148.0	686.0	325.0	0.801	0.0187	5.00	7.21	2.17
